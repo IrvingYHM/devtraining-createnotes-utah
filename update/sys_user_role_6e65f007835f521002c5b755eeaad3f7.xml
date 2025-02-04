@@ -6,9 +6,16 @@
         <elevated_privilege>false</elevated_privilege>
         <grantable>true</grantable>
         <includes_roles/>
+<<<<<<< HEAD:update/sys_user_role_6e65f007835f521002c5b755eeaad3f7.xml
         <name>x_snc_createnotes.notes_user</name>
         <scoped_admin>false</scoped_admin>
         <suffix>notes_user</suffix>
+=======
+        <name>x_snc_createnotes.note_user</name>
+        <requires_subscription/>
+        <scoped_admin>false</scoped_admin>
+        <suffix>note_user</suffix>
+>>>>>>> 3e14ef1015d85048b9b0552a1361dfb7531f80b5:update/sys_user_role_037be169090232007f44e1046c8ff602.xml
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-01-29 01:38:02</sys_created_on>

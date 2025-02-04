@@ -17,8 +17,12 @@
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
+<<<<<<< HEAD:update/sys_app_module_2a65b4c7835f521002c5b755eeaad31c.xml
         <require_confirmation>true</require_confirmation>
         <roles>x_snc_createnotes.notes_user</roles>
+=======
+        <roles>x_snc_createnotes.note_user</roles>
+>>>>>>> 3e14ef1015d85048b9b0552a1361dfb7531f80b5:update/sys_app_module_dc8b6569090232007f44e1046c8ff677.xml
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-01-29 01:38:03</sys_created_on>
